@@ -62,6 +62,12 @@ body{
 @media screen and (max-width:440px) {
     .container{
         width: 60%;
-    
+    }
+    .container p{
+        font-size:16px;
+       
+    }
+    .container button{
+        width: 80%;
     }
 }
